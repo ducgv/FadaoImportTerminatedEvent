@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: com.itpro.airtimedata.importcdr.terminated.main.AirTimeDataImportTeminatedEvent
+Class-Path: SmppLib.jar ITProLib.jar commons-net-3.0.1.jar mysql-connector-java-5.1.17-bin.jar
+
